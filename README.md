@@ -1,3 +1,0 @@
-# HK Utility Bill Verifier
-
-Initializing...
